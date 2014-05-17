@@ -1,5 +1,5 @@
 ### Plugin Information ###
-**Name**: World Item Spawner
+**Name**: Vorti-Howl
 
 **Author**: josephfra
 
