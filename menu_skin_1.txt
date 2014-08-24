@@ -5,6 +5,8 @@
 	or Just make your own derma file and include this.
 */
 
+local surface = surface
+
 surface.CreateFont("nut_MenuButtonFont", {
 	font = mainFont,
 	size = ScreenScale(10),
